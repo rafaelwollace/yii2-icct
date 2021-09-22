@@ -1,6 +1,9 @@
 # yii2-icct
  Projeto ICCT
 
+XAMMP. V3.3.0
+
+PHP 8.0.10 / PHP 8.0.10
 
  TENHA O GIT INSTALADO.
 https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
